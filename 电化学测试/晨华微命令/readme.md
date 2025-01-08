@@ -14,6 +14,8 @@
 晨华工作站电化学实验自动化程序
 - 1.打开CHI测试程序，如下图所示，依次点击Control→Macro Command
 
-- 2. 点击read命令，打开txt文件，注意要更换文件类型。
+![image](https://github.com/user-attachments/assets/750fa403-4fcc-4425-ac01-008f67fb161d)
 
+- 2. 点击read命令，打开txt文件，注意要更换文件类型。
+![image](https://github.com/user-attachments/assets/99cfa686-1c7b-4c45-926e-9899be7cd585)
 - 3. 点击run macro命令，运行程序就可以了。
